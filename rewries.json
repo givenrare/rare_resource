@@ -1,0 +1,82 @@
+{
+  "subject": "English Language",
+  "paper": "Paper 2",
+  "exam": "ECZ GCE",
+  "year": 2025,
+  "section": "Sentence Transformation",
+  "instructions": "Rewrite each sentence according to the instructions given without changing the meaning.",
+  "questions": [
+    {
+      "id": 1,
+      "question": {
+        "A": "The chief and his headmen are attending an important meeting in the palace.",
+        "B": "The chief, along with ________________________________"
+      },
+      "answer": "The chief, along with his headmen, is attending an important meeting in the palace."
+    },
+    {
+      "id": 2,
+      "question": {
+        "A": "The learners will not leave the school until they finish cleaning the surroundings.",
+        "B": "Not until the learners ________________________________"
+      },
+      "answer": "Not until the learners finish cleaning the surroundings will they leave the school."
+    },
+    {
+      "id": 3,
+      "question": {
+        "A": "Mvila cannot go to Solwezi if she does not ask for permission from her mother.",
+        "B": "Unless Mvila ________________________________"
+      },
+      "answer": "Unless Mvila asks for permission from her mother, she cannot go to Solwezi."
+    },
+    {
+      "id": 4,
+      "question": {
+        "A": "Both Mviza and Mwaka are not attending the wedding.",
+        "B": "Neither ________________________________"
+      },
+      "answer": "Neither Mviza nor Mwaka is attending the wedding."
+    },
+    {
+      "id": 5,
+      "question": {
+        "A": "Since the farmers have harvested their crops, they can start selling.",
+        "B": "Now ________________________________"
+      },
+      "answer": "Now that the farmers have harvested their crops, they can start selling."
+    },
+    {
+      "id": 6,
+      "question": {
+        "A": "Immediately the children saw the dogs, they started running away.",
+        "B": "No sooner ________________________________"
+      },
+      "answer": "No sooner had the children seen the dogs than they started running away."
+    },
+    {
+      "id": 7,
+      "question": {
+        "A": "He likes eating bananas more than oranges.",
+        "B": "He prefers ________________________________"
+      },
+      "answer": "He prefers eating bananas to oranges."
+    },
+    {
+      "id": 8,
+      "question": {
+        "A": "Felix despises elderly people.",
+        "B": "Felix looks ________________________________"
+      },
+      "answer": "Felix looks down upon elderly people."
+    },
+    {
+      "id": 9,
+      "question": {
+        "A": "\"I will check all your exercise books if you finish this work on time,\" said the teacher.",
+        "B": "The teacher said that ________________________________"
+      },
+      "answer": "The teacher said that he would check all their exercise books if they finished that work on time."
+    }
+  ]
+}
