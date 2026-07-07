@@ -1,6 +1,6 @@
 {
   "rewrites": {
-    "version": 3,
+    "version": 0,
     "url": "https://example.com/files/rewrites.json"
   },
   "papers": {
