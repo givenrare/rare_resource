@@ -1,7 +1,7 @@
 {
   "rewrites": {
-    "version": 0,
-    "url": "https://example.com/files/rewrites.json"
+    "version": 1,
+    "url": "https://givenrare.github.io/rare_resource/rewries.json"
   },
   "papers": {
     "version": 5,
