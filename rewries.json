@@ -1,13 +1,11 @@
 {
   "subject": "English Language",
   "paper": "Paper 2",
-  "exam": "ECZ GCE",
-  "year": 2025,
-  "section": "Sentence Transformation",
-  "instructions": "Rewrite each sentence according to the instructions given without changing the meaning.",
   "questions": [
     {
       "id": 1,
+      "year": 2025,
+      "section": "Sentence Transformation",
       "question": {
         "A": "The chief and his headmen are attending an important meeting in the palace.",
         "B": "The chief, along with ________________________________"
@@ -16,6 +14,8 @@
     },
     {
       "id": 2,
+      "year": 2025,
+      "section": "Sentence Transformation",
       "question": {
         "A": "The learners will not leave the school until they finish cleaning the surroundings.",
         "B": "Not until the learners ________________________________"
@@ -24,6 +24,8 @@
     },
     {
       "id": 3,
+      "year": 2025,
+      "section": "Sentence Transformation",
       "question": {
         "A": "Mvila cannot go to Solwezi if she does not ask for permission from her mother.",
         "B": "Unless Mvila ________________________________"
@@ -32,6 +34,8 @@
     },
     {
       "id": 4,
+      "year": 2025,
+      "section": "Sentence Transformation",
       "question": {
         "A": "Both Mviza and Mwaka are not attending the wedding.",
         "B": "Neither ________________________________"
@@ -40,6 +44,8 @@
     },
     {
       "id": 5,
+      "year": 2025,
+      "section": "Sentence Transformation",
       "question": {
         "A": "Since the farmers have harvested their crops, they can start selling.",
         "B": "Now ________________________________"
@@ -48,6 +54,8 @@
     },
     {
       "id": 6,
+      "year": 2025,
+      "section": "Sentence Transformation",
       "question": {
         "A": "Immediately the children saw the dogs, they started running away.",
         "B": "No sooner ________________________________"
@@ -56,6 +64,8 @@
     },
     {
       "id": 7,
+      "year": 2025,
+      "section": "Sentence Transformation",
       "question": {
         "A": "He likes eating bananas more than oranges.",
         "B": "He prefers ________________________________"
@@ -64,6 +74,8 @@
     },
     {
       "id": 8,
+      "year": 2025,
+      "section": "Sentence Transformation",
       "question": {
         "A": "Felix despises elderly people.",
         "B": "Felix looks ________________________________"
@@ -72,6 +84,8 @@
     },
     {
       "id": 9,
+      "year": 2025,
+      "section": "Sentence Transformation",
       "question": {
         "A": "\"I will check all your exercise books if you finish this work on time,\" said the teacher.",
         "B": "The teacher said that ________________________________"
